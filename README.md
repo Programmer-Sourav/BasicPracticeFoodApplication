@@ -5,9 +5,15 @@ OOPs with Android Basics
 //Only for demonastration
 
 Key Features: 
-//Simple RecylcerView with custom object
-//OOPs concepts with Java (with usage of extends, implements)
-//Sorting and filtering
-//add to cart and remove from cart
-//Usage of android Checkbox and RadioButton
+....Simple RecylcerView with custom object
+
+
+
+....OOPs concepts with Java (with usage of extends, implements)
+
+
+
+....Sorting and filtering
+....add to cart and remove from cart
+....Usage of android Checkbox and RadioButton
 
