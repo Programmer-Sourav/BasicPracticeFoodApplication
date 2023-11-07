@@ -21,8 +21,8 @@ Key Features:
 
 
 
-![img](https://ibb.co/8dzv803)
-![img](https://ibb.co/SvqHczf)
-![img](https://ibb.co/K2BkfjX)
-![img](https://ibb.co/09zWdVR)
-![img](https://ibb.co/Sd0g059)
+![alt text](https://ibb.co/8dzv803)
+![alt text](https://ibb.co/SvqHczf)
+![alt text](https://ibb.co/K2BkfjX)
+![alt text](https://ibb.co/09zWdVR)
+![alt text](https://ibb.co/Sd0g059)
