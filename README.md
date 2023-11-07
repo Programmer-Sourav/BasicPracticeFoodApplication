@@ -17,3 +17,4 @@ Key Features:
 ....add to cart and remove from cart
 ....Usage of android Checkbox and RadioButton
 
+***** No fancy xml/design... only the basics...
